@@ -1,4 +1,4 @@
 # demo-repo
 This is a demo repository
 
-Commit #RESOLVE US2
+Test commit for US2
